@@ -20,27 +20,27 @@ The project includes the following visualizations:
 ### 1. Popularity Trend
 Explores the average popularity of music tracks across different years to identify changes in popularity over time.
 
-![Popularity Trend](Screenshots/popularity_trend.png)
+![Popularity Trend](popularity_trend.png)
 
 ### 2. Tracks by Decade
 Compares the number of music tracks across different decades to understand the distribution of tracks over time.
 
-![Tracks by Decade](Screenshots/tracks_by_decade.png)
+![Tracks by Decade](tracks_by_decade.png)
 
 ### 3. Danceability vs Popularity
 Explores the relationship between danceability and popularity to identify patterns among music tracks.
 
-![Danceability vs Popularity](Screenshots/danceability_vs_popularity.png)
+![Danceability vs Popularity](danceability_vs_popularity.png)
 
 ### 4. Sound Over Time
 Analyses changes in music audio characteristics, including danceability, energy, acousticness and valence, over time.
 
-![Sound Over Time](Screenshots/sound_over_time.png)
+![Sound Over Time](sound_over_time.png)
 
 ### 5. Top Artists
 Identifies artists with the highest number of tracks in the dataset and compares their contributions.
 
-![Top Artists](Screenshots/top_artists.png)
+![Top Artists](top_artists.png)
 
 ## Tools and Technologies
 - Tableau
