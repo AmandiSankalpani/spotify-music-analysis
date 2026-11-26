@@ -12,7 +12,7 @@ An interactive Tableau dashboard and story were developed to explore different a
 
 ## Dashboard Preview
 
-![Spotify Music Dashboard](Screenshots/dashboard_overview.png)
+![Spotify Music Dashboard](dashboard_overview.png)
 
 ## Tableau Storytelling
 The project includes the following visualizations:
