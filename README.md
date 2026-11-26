@@ -1,5 +1,9 @@
 # Spotify Music Analysis Dashboard
 ## Project Overview
+### Dashboard Preview
+
+![Spotify Music Dashboard](dashboard_overview.png)
+
 This project explores historical Spotify music data from 1921 to 2020 using Tableau. The aim is to understand how music popularity, track distribution and audio characteristics have changed over time.
 An interactive Tableau dashboard and story were developed to explore different aspects of music trends and present findings through data visualizations.
 
@@ -10,9 +14,7 @@ An interactive Tableau dashboard and story were developed to explore different a
 - Analyse changes in music audio characteristics over time.
 - Identify artists with the highest number of tracks.
 
-## Dashboard Preview
 
-![Spotify Music Dashboard](dashboard_overview.png)
 
 ## Tableau Storytelling
 The project includes the following visualizations:
@@ -54,8 +56,8 @@ Identifies artists with the highest number of tracks in the dataset and compares
 - Data Storytelling
 
 ## Project Files
-- `Tableau_Workbook/` – Packaged Tableau workbook (.twbx).
-- `Screenshots/` – Dashboard and visualization screenshots.
+- `spotify_music_analysis.twbx` – Packaged Tableau workbook.
+- PNG files – Dashboard and visualization screenshots.
 
 ## Author
 **Amandi Sankalpani**
